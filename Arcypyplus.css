@@ -1,0 +1,29 @@
+.title
+{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+}
+.book
+{
+    max-width: 300px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 0px;
+    vertical-align: text-bottom;
+    margin-bottom: 20px;
+}
+.harry
+{
+    width:300px;
+    height: 350px;
+}
+.grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.button
+{
+    cursor:pointer;
+}
